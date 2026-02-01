@@ -126,11 +126,17 @@
                 <div class="glass rounded-xl border border-white/5 flex flex-col h-[600px]">
                     <!-- Chart Header / Switcher -->
                     <div class="p-6 border-b border-white/5 flex flex-col md:flex-row md:items-center justify-between gap-4">
-                        <div class="relative flex-1 max-w-md">
-                            <input type="text" id="metric-search" placeholder="SEARCH METRIC..." class="w-full bg-[#0a0a0a] border border-white/10 rounded px-4 py-2 text-[10px] font-['JetBrains_Mono'] tracking-widest uppercase focus:outline-none focus:border-cyan-500/50 transition-colors">
-                            <div id="search-results" class="absolute top-full left-0 right-0 bg-[#0a0a0a] border border-white/10 mt-1 rounded shadow-2xl z-50 hidden max-h-60 overflow-y-auto">
-                                <!-- Results injected here -->
+                        <div class="relative flex-1 max-w-md flex gap-2">
+                            <div class="relative flex-1 group">
+                                <input type="text" id="metric-search" placeholder="SEARCH METRIC..." class="w-full bg-[#0a0a0a] border border-white/10 rounded px-4 py-2 text-[10px] font-['JetBrains_Mono'] tracking-widest uppercase focus:outline-none focus:border-cyan-500/50 transition-colors">
+                                <div id="search-results" class="absolute top-full left-0 right-0 bg-[#0a0a0a] border border-white/10 mt-1 rounded shadow-2xl z-50 hidden max-h-60 overflow-y-auto">
+                                    <!-- Results injected here -->
+                                </div>
                             </div>
+                            <select id="metric-dropdown" class="bg-[#0a0a0a] border border-white/10 rounded px-2 py-2 text-[10px] font-['JetBrains_Mono'] tracking-widest uppercase focus:outline-none focus:border-cyan-500/50 transition-colors text-gray-400 max-w-[150px]">
+                                <option value="">SELECT...</option>
+                                <!-- Categories injected here -->
+                            </select>
                         </div>
                         <div class="flex items-center gap-2">
                             <div class="flex bg-white/5 p-1 rounded">

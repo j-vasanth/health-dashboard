@@ -101,15 +101,53 @@ class DashboardUI {
     async init() {
         this.renderVitalPulse();
         this.renderDataLogs();
+        this.populateDropdown();
         this.initChart();
         this.updateChart(this.manager.currentMetric);
         
         // Hide startup overlay
         setTimeout(() => {
             const overlay = document.getElementById('startup-overlay');
-            overlay.style.opacity = '0';
-            setTimeout(() => overlay.remove(), 1000);
+            if (overlay) {
+                overlay.style.opacity = '0';
+                setTimeout(() => overlay.remove(), 1000);
+            }
         }, 1500);
+    }
+
+    populateDropdown() {
+        const dropdown = document.getElementById('metric-dropdown');
+        if (!dropdown) return;
+
+        // Group metrics by source
+        const groups = {};
+        this.manager.metrics.forEach(m => {
+            if (!groups[m.source]) groups[m.source] = [];
+            groups[m.source].push(m);
+        });
+
+        Object.keys(groups).sort().forEach(source => {
+            const optgroup = document.createElement('optgroup');
+            optgroup.label = source.toUpperCase();
+            
+            groups[source].forEach(m => {
+                const option = document.createElement('option');
+                option.value = m.name;
+                option.textContent = m.label.toUpperCase();
+                if (m.name === this.manager.currentMetric) option.selected = true;
+                optgroup.appendChild(option);
+            });
+            dropdown.appendChild(optgroup);
+        });
+
+        dropdown.addEventListener('change', (e) => {
+            if (e.target.value) {
+                const metric = this.manager.metrics.find(m => m.name === e.target.value);
+                this.manager.currentMetric = e.target.value;
+                document.getElementById('metric-search').value = metric ? metric.label : '';
+                this.updateChart(e.target.value);
+            }
+        });
     }
 
     setupEventListeners() {
