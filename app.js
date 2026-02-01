@@ -67,27 +67,36 @@ class HealthDataManager {
             allEntries = allEntries.concat(filtered);
         });
 
-        return allEntries
-            .map(d => ({
-                x: new Date(d.timestamp),
-                y: parseFloat(d.value)
+        // Use a Map to keep only the latest value per timestamp string
+        const uniqueByTime = new Map();
+        allEntries.forEach(d => {
+            const timeStr = d.timestamp || d.Timestamp;
+            const val = d.value || d.Value;
+            if (timeStr && val !== undefined) {
+                uniqueByTime.set(timeStr, parseFloat(val));
+            }
+        });
+
+        return Array.from(uniqueByTime.entries())
+            .map(([time, value]) => ({
+                x: new Date(time),
+                y: value
             }))
             .filter(d => !isNaN(d.y))
             .sort((a, b) => a.x - b.x);
     }
 
     getLatestValue(metricName) {
-        let latest = null;
-        Object.values(this.data).forEach(dataset => {
-            const filtered = dataset.filter(d => d.metric && d.metric.toLowerCase() === metricName.toLowerCase());
-            if (filtered.length > 0) {
-                const lastInSet = filtered.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))[0];
-                if (!latest || new Date(lastInSet.timestamp) > new Date(latest.timestamp)) {
-                    latest = lastInSet;
-                }
-            }
-        });
-        return latest;
+        const data = this.getMetricData(metricName);
+        if (data.length === 0) return null;
+        
+        const latest = data[data.length - 1];
+        return {
+            timestamp: latest.x.toISOString(),
+            value: latest.y,
+            metric: metricName,
+            unit: this.metrics.find(m => m.name === metricName)?.unit || ''
+        };
     }
 }
 
