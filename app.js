@@ -63,7 +63,7 @@ class HealthDataManager {
     getMetricData(metricName) {
         let allEntries = [];
         Object.values(this.data).forEach(dataset => {
-            const filtered = dataset.filter(d => d.metric === metricName);
+            const filtered = dataset.filter(d => d.metric && d.metric.toLowerCase() === metricName.toLowerCase());
             allEntries = allEntries.concat(filtered);
         });
 
@@ -79,7 +79,7 @@ class HealthDataManager {
     getLatestValue(metricName) {
         let latest = null;
         Object.values(this.data).forEach(dataset => {
-            const filtered = dataset.filter(d => d.metric === metricName);
+            const filtered = dataset.filter(d => d.metric && d.metric.toLowerCase() === metricName.toLowerCase());
             if (filtered.length > 0) {
                 const lastInSet = filtered.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))[0];
                 if (!latest || new Date(lastInSet.timestamp) > new Date(latest.timestamp)) {
@@ -186,7 +186,7 @@ class DashboardUI {
             { id: 'HeartRateVariabilitySDNN', label: 'HRV' },
             { id: 'glucose', label: 'GLUCOSE' },
             { id: 'StepCount', label: 'STEPS' },
-            { id: 'hb_a1c', label: 'HbA1c' }
+            { id: 'hba1c', label: 'HbA1c' }
         ];
 
         const container = document.getElementById('vital-pulse-strip');
