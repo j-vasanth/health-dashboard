@@ -889,14 +889,6 @@
   },
   {
     "Timestamp": "2023-11-16",
-    "Metric": "LDL",
-    "Value": 1391.0,
-    "Unit": "nmol/L",
-    "Source": "record_1.xml",
-    "OriginalName": "LDL-P"
-  },
-  {
-    "Timestamp": "2023-11-16",
     "Metric": "HDL",
     "Value": 60.0,
     "Unit": "mg/dL",
