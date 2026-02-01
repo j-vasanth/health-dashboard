@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metabolic Command Center</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-[#050505] text-gray-300 font-['Inter'] selection:bg-cyan-500/30">
+    <!-- Scanning Animation Overlay -->
+    <div id="startup-overlay" class="fixed inset-0 z-50 bg-[#050505] flex items-center justify-center pointer-events-none transition-opacity duration-1000">
+        <div class="relative w-64 h-1 bg-gray-900 overflow-hidden">
+            <div id="startup-bar" class="absolute inset-0 bg-cyan-500 shadow-[0_0_15px_rgba(6,182,212,0.5)] -translate-x-full"></div>
+        </div>
+        <div class="absolute bottom-10 font-['JetBrains_Mono'] text-[10px] tracking-[0.2em] text-cyan-500/50 uppercase">Initialising Neural Link...</div>
+    </div>
+
+    <!-- Header / Nav -->
+    <header class="border-b border-white/5 bg-[#050505]/80 backdrop-blur-xl sticky top-0 z-40">
+        <div class="max-w-[1600px] mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-4">
+                <div class="w-2 h-2 rounded-full bg-cyan-500 animate-pulse shadow-[0_0_8px_rgba(6,182,212,0.8)]"></div>
+                <h1 class="font-['JetBrains_Mono'] text-sm font-bold tracking-tighter uppercase text-white">Metabolic Command Center <span class="text-gray-600">v1.0.0</span></h1>
+            </div>
+            <div class="flex items-center gap-8 text-[10px] font-['JetBrains_Mono'] tracking-widest uppercase text-gray-500">
+                <div class="flex items-center gap-2">
+                    <span class="text-cyan-500/50">Status:</span>
+                    <span class="text-gray-300">Optimal</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-cyan-500/50">Sync:</span>
+                    <span id="sync-status" class="text-gray-300">Ready</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-[1600px] mx-auto px-6 py-8 space-y-8">
+        <!-- Vital Pulse Strip -->
+        <section id="vital-pulse-strip" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            <!-- Dynamically injected -->
+        </section>
+
+        <!-- Main Dashboard Layout -->
+        <div class="grid grid-cols-12 gap-8">
+            
+            <!-- Left Column: Mission Cards & Metrics -->
+            <div class="col-span-12 lg:col-span-4 space-y-8">
+                <div>
+                    <h2 class="font-['JetBrains_Mono'] text-[10px] tracking-[0.3em] uppercase text-cyan-500/50 mb-4 px-1">War Room / Active Missions</h2>
+                    <div id="mission-cards" class="space-y-4">
+                        <!-- HbA1c Reduction -->
+                        <div class="mission-card glass p-5 rounded-lg border border-white/5 relative overflow-hidden group">
+                            <div class="flex justify-between items-start mb-4">
+                                <div>
+                                    <h3 class="text-xs font-bold text-white uppercase tracking-tight">HbA1c Reduction</h3>
+                                    <p class="text-[10px] text-gray-500">Target: < 5.5%</p>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-lg font-['JetBrains_Mono'] text-cyan-400 leading-none">5.7%</div>
+                                    <div class="text-[9px] text-gray-600 mt-1 uppercase">-0.2% vs baseline</div>
+                                </div>
+                            </div>
+                            <div class="h-1 w-full bg-white/5 rounded-full overflow-hidden">
+                                <div class="h-full bg-cyan-500/50 w-[80%]"></div>
+                            </div>
+                        </div>
+
+                        <!-- VO2max Climb -->
+                        <div class="mission-card glass p-5 rounded-lg border border-white/5 relative overflow-hidden group">
+                            <div class="flex justify-between items-start mb-4">
+                                <div>
+                                    <h3 class="text-xs font-bold text-white uppercase tracking-tight">VO2max Climb</h3>
+                                    <p class="text-[10px] text-gray-500">Target: 50.1 ml/kg/min</p>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-lg font-['JetBrains_Mono'] text-emerald-400 leading-none">38.4</div>
+                                    <div class="text-[9px] text-gray-600 mt-1 uppercase">+4.8 from Dec low</div>
+                                </div>
+                            </div>
+                            <div class="h-1 w-full bg-white/5 rounded-full overflow-hidden">
+                                <div class="h-full bg-emerald-500/50 w-[35%]"></div>
+                            </div>
+                        </div>
+
+                        <!-- Metabolic Resilience -->
+                        <div class="mission-card glass p-5 rounded-lg border border-white/5 relative overflow-hidden group">
+                            <div class="flex justify-between items-start mb-4">
+                                <div>
+                                    <h3 class="text-xs font-bold text-white uppercase tracking-tight">Metabolic Resilience</h3>
+                                    <p class="text-[10px] text-gray-500">ALT / AST Stability</p>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-lg font-['JetBrains_Mono'] text-white leading-none">Stable</div>
+                                    <div class="text-[9px] text-gray-600 mt-1 uppercase">Optimal Range</div>
+                                </div>
+                            </div>
+                            <div class="flex gap-1 h-1">
+                                <div class="flex-1 bg-emerald-500/30"></div>
+                                <div class="flex-1 bg-emerald-500/30"></div>
+                                <div class="flex-1 bg-emerald-500/30"></div>
+                                <div class="flex-1 bg-emerald-500/30"></div>
+                                <div class="flex-1 bg-emerald-500/10"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Recent Activity/Logs -->
+                <div>
+                    <h2 class="font-['JetBrains_Mono'] text-[10px] tracking-[0.3em] uppercase text-cyan-500/50 mb-4 px-1">Recent Data Ingress</h2>
+                    <div id="data-logs" class="space-y-2 font-['JetBrains_Mono'] text-[9px] text-gray-600">
+                        <!-- Dynamically injected -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Temporal Engine (Charts) -->
+            <div class="col-span-12 lg:col-span-8 space-y-6">
+                <div class="glass rounded-xl border border-white/5 flex flex-col h-[600px]">
+                    <!-- Chart Header / Switcher -->
+                    <div class="p-6 border-b border-white/5 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                        <div class="relative flex-1 max-w-md">
+                            <input type="text" id="metric-search" placeholder="SEARCH METRIC..." class="w-full bg-[#0a0a0a] border border-white/10 rounded px-4 py-2 text-[10px] font-['JetBrains_Mono'] tracking-widest uppercase focus:outline-none focus:border-cyan-500/50 transition-colors">
+                            <div id="search-results" class="absolute top-full left-0 right-0 bg-[#0a0a0a] border border-white/10 mt-1 rounded shadow-2xl z-50 hidden max-h-60 overflow-y-auto">
+                                <!-- Results injected here -->
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <div class="flex bg-white/5 p-1 rounded">
+                                <button class="time-toggle px-3 py-1 text-[9px] font-bold uppercase tracking-tighter rounded transition-all hover:bg-white/5 text-gray-500 active" data-range="1M">1M</button>
+                                <button class="time-toggle px-3 py-1 text-[9px] font-bold uppercase tracking-tighter rounded transition-all hover:bg-white/5 text-gray-500" data-range="6M">6M</button>
+                                <button class="time-toggle px-3 py-1 text-[9px] font-bold uppercase tracking-tighter rounded transition-all hover:bg-white/5 text-gray-500" data-range="1Y">1Y</button>
+                                <button class="time-toggle px-3 py-1 text-[9px] font-bold uppercase tracking-tighter rounded transition-all hover:bg-white/5 text-gray-500" data-range="ALL">ALL</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Chart Container -->
+                    <div class="flex-1 relative p-6">
+                        <canvas id="temporal-chart"></canvas>
+                        <div id="chart-loading" class="absolute inset-0 flex items-center justify-center bg-[#050505]/50 backdrop-blur-sm hidden">
+                            <div class="font-['JetBrains_Mono'] text-[10px] tracking-widest text-cyan-500 animate-pulse uppercase">Recalculating Temporal Map...</div>
+                        </div>
+                    </div>
+
+                    <!-- Chart Footer/Info -->
+                    <div class="px-6 py-3 border-t border-white/5 bg-white/[0.02] flex justify-between items-center">
+                        <div id="metric-info" class="text-[10px] font-['JetBrains_Mono'] text-gray-500 uppercase">
+                            Metric: <span class="text-gray-300">Resting Heart Rate</span> | Unit: <span class="text-gray-300">BPM</span>
+                        </div>
+                        <div class="text-[10px] font-['JetBrains_Mono'] text-gray-600">
+                            Temporal Engine v2.4
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
