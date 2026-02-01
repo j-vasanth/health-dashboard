@@ -221,7 +221,7 @@ class DashboardUI {
         const metrics = [
             { id: 'RestingHeartRate', label: 'RHR' },
             { id: 'VO2Max', label: 'VO2MAX' },
-            { id: 'HeartRateVariabilitySDNN', label: 'HRV' },
+            { id: 'HRV', label: 'HRV' },
             { id: 'glucose', label: 'GLUCOSE' },
             { id: 'StepCount', label: 'STEPS' },
             { id: 'hba1c', label: 'HbA1c' }
@@ -232,13 +232,17 @@ class DashboardUI {
 
         metrics.forEach(m => {
             const data = this.manager.getLatestValue(m.id);
-            const val = data ? parseFloat(data.value).toFixed(data.metric === 'hb_a1c' ? 1 : 0) : '--';
+            const val = data ? parseFloat(data.value).toFixed(data.metric && data.metric.toLowerCase() === 'hba1c' ? 1 : 0) : '--';
             const unit = data ? data.unit : '';
+            const dateStr = data ? new Date(data.timestamp).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: '2-digit' }) : 'No Data';
             
             const card = document.createElement('div');
             card.className = 'pulse-card glass border border-white/5 p-4 rounded-lg flex flex-col justify-between h-24 cursor-pointer';
             card.innerHTML = `
-                <div class="text-[9px] font-bold text-gray-500 uppercase tracking-widest">${m.label}</div>
+                <div class="flex justify-between items-start w-full">
+                    <div class="text-[9px] font-bold text-gray-500 uppercase tracking-widest">${m.label}</div>
+                    <div class="text-[7px] font-mono text-gray-600 uppercase">${dateStr}</div>
+                </div>
                 <div class="flex items-baseline gap-1">
                     <span class="text-2xl font-['JetBrains_Mono'] text-white font-bold">${val}</span>
                     <span class="text-[8px] text-gray-600 uppercase font-bold">${unit}</span>
