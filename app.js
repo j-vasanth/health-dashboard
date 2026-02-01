@@ -238,7 +238,7 @@ class DashboardUI {
             { id: 'HRV', label: 'HRV' },
             { id: 'glucose', label: 'GLUCOSE' },
             { id: 'StepCount', label: 'STEPS' },
-            { id: 'hba1c', label: 'HbA1c' }
+            { id: 'SleepScore', label: 'SLEEP' }
         ];
 
         const container = document.getElementById('vital-pulse-strip');
