@@ -43,12 +43,14 @@ class HealthDataManager {
 
         Object.values(this.data).forEach(dataset => {
             dataset.forEach(entry => {
-                if (entry.metric && !uniqueMetrics.has(entry.metric)) {
-                    uniqueMetrics.add(entry.metric);
-                    metricMap.set(entry.metric, {
-                        name: entry.metric,
-                        label: entry.source_display || entry.metric,
-                        unit: entry.unit || '',
+                const rawMetric = entry.metric || entry.Metric;
+                const mKey = (rawMetric || '').toLowerCase();
+                if (mKey && !uniqueMetrics.has(mKey)) {
+                    uniqueMetrics.add(mKey);
+                    metricMap.set(mKey, {
+                        name: mKey,
+                        label: entry.source_display || entry.OriginalName || rawMetric,
+                        unit: entry.unit || entry.Unit || '',
                         source: dataset === this.data.labs ? 'Labs' : 
                                 dataset === this.data.vitals ? 'Vitals' :
                                 dataset === this.data.activity ? 'Activity' : 'Sleep'
@@ -63,7 +65,10 @@ class HealthDataManager {
     getMetricData(metricName) {
         let allEntries = [];
         Object.values(this.data).forEach(dataset => {
-            const filtered = dataset.filter(d => d.metric && d.metric.toLowerCase() === metricName.toLowerCase());
+            const filtered = dataset.filter(d => {
+                const m = d.metric || d.Metric;
+                return m && m.toLowerCase() === metricName.toLowerCase();
+            });
             allEntries = allEntries.concat(filtered);
         });
 
@@ -95,7 +100,7 @@ class HealthDataManager {
             timestamp: latest.x.toISOString(),
             value: latest.y,
             metric: metricName,
-            unit: this.metrics.find(m => m.name === metricName)?.unit || ''
+            unit: this.metrics.find(m => m.name.toLowerCase() === metricName.toLowerCase())?.unit || ''
         };
     }
 }
