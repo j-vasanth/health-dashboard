@@ -4972,9 +4972,9 @@
   {
     "timestamp": "2026-01-30T00:00:00Z",
     "metric": "StepCount",
-    "value": 6957.0,
+    "value": 20572.28,
     "unit": "count",
-    "source": "Apple Health XML"
+    "source": "Apple Health XML, HealthMetrics-2026-01-30.csv, Workouts-2026-01-30.csv"
   },
   {
     "timestamp": "2026-02-01T00:00:00Z",
@@ -5003,5 +5003,12 @@
     "value": 15492.43,
     "unit": "count",
     "source": "HealthMetrics-2026-01-31.csv, Workouts-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "ActiveEnergyBurned",
+    "value": 695.65,
+    "unit": "kcal",
+    "source": "HealthMetrics-2026-01-30.csv, Workouts-2026-01-30.csv"
   }
 ]
