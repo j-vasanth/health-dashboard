@@ -6956,5 +6956,131 @@
     "value": 90.0,
     "unit": "score",
     "source": "Calculated"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepTotal",
+    "value": 7.71,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepAsleep",
+    "value": 0.0,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepDeep",
+    "value": 0.92,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepREM",
+    "value": 1.72,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepCore",
+    "value": 5.07,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "SleepAwake",
+    "value": 0.27,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepTotal",
+    "value": 6.96,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepAsleep",
+    "value": 0.0,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepDeep",
+    "value": 1.04,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepREM",
+    "value": 1.58,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepCore",
+    "value": 4.34,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "SleepAwake",
+    "value": 0.12,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepTotal",
+    "value": 7.35,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepAsleep",
+    "value": 0.0,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepDeep",
+    "value": 0.64,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepREM",
+    "value": 1.83,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepCore",
+    "value": 4.88,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "SleepAwake",
+    "value": 0.32,
+    "unit": "hr",
+    "source": "HealthMetrics-2026-01-30.csv"
   }
 ]
