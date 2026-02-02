@@ -4979,29 +4979,29 @@
   {
     "timestamp": "2026-02-01T00:00:00Z",
     "metric": "ActiveEnergyBurned",
-    "value": 315.37,
+    "value": 436.61,
     "unit": "kcal",
-    "source": "HealthMetrics-2026-02-01.csv"
+    "source": "HealthMetrics-2026-02-01.csv, Workouts-2026-02-01.csv"
   },
   {
     "timestamp": "2026-02-01T00:00:00Z",
     "metric": "StepCount",
-    "value": 3760.17,
+    "value": 4144.17,
     "unit": "count",
-    "source": "HealthMetrics-2026-02-01.csv"
+    "source": "HealthMetrics-2026-02-01.csv, Workouts-2026-02-01.csv"
   },
   {
     "timestamp": "2026-01-31T00:00:00Z",
     "metric": "ActiveEnergyBurned",
-    "value": 797.44,
+    "value": 1331.64,
     "unit": "kcal",
-    "source": "HealthMetrics-2026-01-31.csv"
+    "source": "HealthMetrics-2026-01-31.csv, Workouts-2026-01-31.csv"
   },
   {
     "timestamp": "2026-01-31T00:00:00Z",
     "metric": "StepCount",
-    "value": 10841.43,
+    "value": 15492.43,
     "unit": "count",
-    "source": "HealthMetrics-2026-01-31.csv"
+    "source": "HealthMetrics-2026-01-31.csv, Workouts-2026-01-31.csv"
   }
 ]
