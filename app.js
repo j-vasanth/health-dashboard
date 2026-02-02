@@ -381,7 +381,9 @@ class DashboardUI {
         if (this.manager.currentTimeRange !== 'ALL') {
             const months = this.manager.currentTimeRange === '1M' ? 1 : (this.manager.currentTimeRange === '6M' ? 6 : 12);
             const cutoff = new Date();
-            cutoff.setMonth(now.getMonth() - months);
+            // Using the latest data point as the anchor for the window
+            const anchor = data.length > 0 ? data[data.length - 1].x : now;
+            cutoff.setMonth(anchor.getMonth() - months);
             filteredData = data.filter(d => d.x >= cutoff);
         }
 
