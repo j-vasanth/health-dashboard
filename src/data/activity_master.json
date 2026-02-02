@@ -4989,5 +4989,19 @@
     "value": 3760.17,
     "unit": "count",
     "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "ActiveEnergyBurned",
+    "value": 797.44,
+    "unit": "kcal",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "StepCount",
+    "value": 10841.43,
+    "unit": "count",
+    "source": "HealthMetrics-2026-01-31.csv"
   }
 ]
