@@ -730,10 +730,10 @@
   {
     "Timestamp": "2023-10-11",
     "Metric": "LDL",
-    "Value": 107.0,
+    "Value": 17.0,
     "Unit": "mg/dL",
     "Source": "record_1.xml",
-    "OriginalName": "LDL Cholesterol"
+    "OriginalName": "VLDL Cholesterol Cal"
   },
   {
     "Timestamp": "2023-10-31",
