@@ -47,9 +47,24 @@ class HealthDataManager {
                 const mKey = (rawMetric || '').toLowerCase();
                 if (mKey && !uniqueMetrics.has(mKey)) {
                     uniqueMetrics.add(mKey);
+                    
+                    // Human-friendly labels for common metrics
+                    const labels = {
+                        'activeenergyburned': 'ACTIVE ENERGY',
+                        'stepcount': 'STEP COUNT',
+                        'distancecycling': 'CYCLING DISTANCE',
+                        'sleeptotal': 'TOTAL SLEEP',
+                        'sleepdeep': 'DEEP SLEEP',
+                        'sleeprem': 'REM SLEEP',
+                        'sleepscore': 'SLEEP SCORE',
+                        'restingheartrate': 'RESTING HEART RATE',
+                        'vo2max': 'VO2 MAX',
+                        'hrv': 'HRV'
+                    };
+
                     metricMap.set(mKey, {
                         name: mKey,
-                        label: entry.source_display || entry.OriginalName || rawMetric,
+                        label: labels[mKey] || entry.source_display || entry.OriginalName || rawMetric.toUpperCase(),
                         unit: entry.unit || entry.Unit || '',
                         source: dataset === this.data.labs ? 'Labs' : 
                                 dataset === this.data.vitals ? 'Vitals' :
@@ -274,9 +289,10 @@ class DashboardUI {
         const logs = [
             { msg: 'System initialized. Loading temporal data...', time: '0ms' },
             { msg: 'Connection established to local data stores.', time: '124ms' },
-            { msg: 'Indexing 43,204 data points across 4 masters.', time: '342ms' },
             { msg: 'Metric Switcher indexing complete.', time: '410ms' },
-            { msg: 'Ready for temporal analysis.', time: '415ms' }
+            { msg: 'Patch 2.4.1 applied: Chart window anchored to latest data.', time: '412ms' },
+            { msg: 'Ingested 677 historical energy data points.', time: '415ms' },
+            { msg: 'Ready for temporal analysis.', time: '420ms' }
         ];
 
         const container = document.getElementById('data-logs');
