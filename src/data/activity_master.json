@@ -22,7 +22,7 @@
   },
   {
     "timestamp": "2024-02-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 103.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -36,7 +36,7 @@
   },
   {
     "timestamp": "2024-02-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 383.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -50,7 +50,7 @@
   },
   {
     "timestamp": "2024-02-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 786.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -64,7 +64,7 @@
   },
   {
     "timestamp": "2024-02-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 884.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -78,7 +78,7 @@
   },
   {
     "timestamp": "2024-02-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 146.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -92,7 +92,7 @@
   },
   {
     "timestamp": "2024-02-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 507.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -106,7 +106,7 @@
   },
   {
     "timestamp": "2024-02-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 193.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -120,7 +120,7 @@
   },
   {
     "timestamp": "2024-02-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 172.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -134,7 +134,7 @@
   },
   {
     "timestamp": "2024-03-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 514.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -148,7 +148,7 @@
   },
   {
     "timestamp": "2024-03-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 722.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -162,7 +162,7 @@
   },
   {
     "timestamp": "2024-03-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 373.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -176,7 +176,7 @@
   },
   {
     "timestamp": "2024-03-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 406.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -190,7 +190,7 @@
   },
   {
     "timestamp": "2024-03-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 218.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -204,7 +204,7 @@
   },
   {
     "timestamp": "2024-03-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 436.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -218,7 +218,7 @@
   },
   {
     "timestamp": "2024-03-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 314.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -232,7 +232,7 @@
   },
   {
     "timestamp": "2024-03-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 127.46,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -246,7 +246,7 @@
   },
   {
     "timestamp": "2024-03-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 377.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -260,7 +260,7 @@
   },
   {
     "timestamp": "2024-03-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1010.52,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -274,7 +274,7 @@
   },
   {
     "timestamp": "2024-03-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 819.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -288,7 +288,7 @@
   },
   {
     "timestamp": "2024-03-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 858.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -302,7 +302,7 @@
   },
   {
     "timestamp": "2024-03-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 139.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -316,7 +316,7 @@
   },
   {
     "timestamp": "2024-03-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 248.41,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -330,7 +330,7 @@
   },
   {
     "timestamp": "2024-03-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 126.27,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -344,7 +344,7 @@
   },
   {
     "timestamp": "2024-03-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 154.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -358,7 +358,7 @@
   },
   {
     "timestamp": "2024-03-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1407.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -372,7 +372,7 @@
   },
   {
     "timestamp": "2024-03-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1220.07,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -386,7 +386,7 @@
   },
   {
     "timestamp": "2024-03-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 446.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -400,7 +400,7 @@
   },
   {
     "timestamp": "2024-03-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 422.86,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -414,7 +414,7 @@
   },
   {
     "timestamp": "2024-03-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1281.46,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -428,7 +428,7 @@
   },
   {
     "timestamp": "2024-03-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 833.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -442,7 +442,7 @@
   },
   {
     "timestamp": "2024-03-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 408.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -456,7 +456,7 @@
   },
   {
     "timestamp": "2024-03-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 908.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -470,7 +470,7 @@
   },
   {
     "timestamp": "2024-03-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 664.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -484,7 +484,7 @@
   },
   {
     "timestamp": "2024-03-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 492.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -498,7 +498,7 @@
   },
   {
     "timestamp": "2024-03-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 929.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -512,7 +512,7 @@
   },
   {
     "timestamp": "2024-03-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 477.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -526,7 +526,7 @@
   },
   {
     "timestamp": "2024-03-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 485.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -540,7 +540,7 @@
   },
   {
     "timestamp": "2024-03-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 512.7,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -554,7 +554,7 @@
   },
   {
     "timestamp": "2024-03-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 888.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -568,7 +568,7 @@
   },
   {
     "timestamp": "2024-04-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 688.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -582,7 +582,7 @@
   },
   {
     "timestamp": "2024-04-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 396.76,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -596,7 +596,7 @@
   },
   {
     "timestamp": "2024-04-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 925.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -610,7 +610,7 @@
   },
   {
     "timestamp": "2024-04-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 534.52,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -624,7 +624,7 @@
   },
   {
     "timestamp": "2024-04-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 912.53,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -638,7 +638,7 @@
   },
   {
     "timestamp": "2024-04-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 805.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -652,7 +652,7 @@
   },
   {
     "timestamp": "2024-04-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 400.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -666,7 +666,7 @@
   },
   {
     "timestamp": "2024-04-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 564.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -680,7 +680,7 @@
   },
   {
     "timestamp": "2024-04-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 406.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -694,7 +694,7 @@
   },
   {
     "timestamp": "2024-04-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1011.85,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -708,7 +708,7 @@
   },
   {
     "timestamp": "2024-04-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 349.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -722,7 +722,7 @@
   },
   {
     "timestamp": "2024-04-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 559.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -736,7 +736,7 @@
   },
   {
     "timestamp": "2024-04-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 484.64,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -750,7 +750,7 @@
   },
   {
     "timestamp": "2024-04-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 467.13,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -764,7 +764,7 @@
   },
   {
     "timestamp": "2024-04-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 287.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -778,7 +778,7 @@
   },
   {
     "timestamp": "2024-04-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 808.59,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -792,7 +792,7 @@
   },
   {
     "timestamp": "2024-04-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 354.03,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -806,7 +806,7 @@
   },
   {
     "timestamp": "2024-04-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 457.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -820,7 +820,7 @@
   },
   {
     "timestamp": "2024-04-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 358.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -834,7 +834,7 @@
   },
   {
     "timestamp": "2024-04-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 943.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -848,7 +848,7 @@
   },
   {
     "timestamp": "2024-04-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 285.24,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -862,7 +862,7 @@
   },
   {
     "timestamp": "2024-04-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 903.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -876,7 +876,7 @@
   },
   {
     "timestamp": "2024-04-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 514.24,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -890,7 +890,7 @@
   },
   {
     "timestamp": "2024-04-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 998.08,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -904,7 +904,7 @@
   },
   {
     "timestamp": "2024-04-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 460.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -918,7 +918,7 @@
   },
   {
     "timestamp": "2024-04-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 331.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -932,7 +932,7 @@
   },
   {
     "timestamp": "2024-04-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 449.05,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -946,7 +946,7 @@
   },
   {
     "timestamp": "2024-04-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 386.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -960,7 +960,7 @@
   },
   {
     "timestamp": "2024-04-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 288.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -974,7 +974,7 @@
   },
   {
     "timestamp": "2024-04-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 444.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -988,7 +988,7 @@
   },
   {
     "timestamp": "2024-05-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 406.14,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1002,7 +1002,7 @@
   },
   {
     "timestamp": "2024-05-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 380.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1016,7 +1016,7 @@
   },
   {
     "timestamp": "2024-05-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 413.64,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1030,7 +1030,7 @@
   },
   {
     "timestamp": "2024-05-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 344.81,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1044,7 +1044,7 @@
   },
   {
     "timestamp": "2024-05-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 470.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1058,7 +1058,7 @@
   },
   {
     "timestamp": "2024-05-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 313.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1072,7 +1072,7 @@
   },
   {
     "timestamp": "2024-05-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 297.68,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1086,7 +1086,7 @@
   },
   {
     "timestamp": "2024-05-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 379.08,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1100,7 +1100,7 @@
   },
   {
     "timestamp": "2024-05-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 323.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1114,7 +1114,7 @@
   },
   {
     "timestamp": "2024-05-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 215.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1128,7 +1128,7 @@
   },
   {
     "timestamp": "2024-05-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 504.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1142,7 +1142,7 @@
   },
   {
     "timestamp": "2024-05-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 752.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1156,7 +1156,7 @@
   },
   {
     "timestamp": "2024-05-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 241.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1170,7 +1170,7 @@
   },
   {
     "timestamp": "2024-05-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 520.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1184,7 +1184,7 @@
   },
   {
     "timestamp": "2024-05-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 669.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1198,7 +1198,7 @@
   },
   {
     "timestamp": "2024-05-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 454.05,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1212,7 +1212,7 @@
   },
   {
     "timestamp": "2024-05-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 233.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1226,7 +1226,7 @@
   },
   {
     "timestamp": "2024-05-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 599.92,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1240,7 +1240,7 @@
   },
   {
     "timestamp": "2024-05-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 984.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1254,7 +1254,7 @@
   },
   {
     "timestamp": "2024-05-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 350.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1268,7 +1268,7 @@
   },
   {
     "timestamp": "2024-05-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 521.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1282,7 +1282,7 @@
   },
   {
     "timestamp": "2024-05-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 287.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1296,7 +1296,7 @@
   },
   {
     "timestamp": "2024-05-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 590.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1310,7 +1310,7 @@
   },
   {
     "timestamp": "2024-05-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 412.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1324,7 +1324,7 @@
   },
   {
     "timestamp": "2024-05-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 493.59,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1338,7 +1338,7 @@
   },
   {
     "timestamp": "2024-05-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 431.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1352,7 +1352,7 @@
   },
   {
     "timestamp": "2024-05-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 398.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1366,7 +1366,7 @@
   },
   {
     "timestamp": "2024-05-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 556.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1380,7 +1380,7 @@
   },
   {
     "timestamp": "2024-05-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 197.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1394,7 +1394,7 @@
   },
   {
     "timestamp": "2024-05-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 465.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1408,7 +1408,7 @@
   },
   {
     "timestamp": "2024-05-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 306.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1422,7 +1422,7 @@
   },
   {
     "timestamp": "2024-06-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 454.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1436,7 +1436,7 @@
   },
   {
     "timestamp": "2024-06-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 636.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1450,7 +1450,7 @@
   },
   {
     "timestamp": "2024-06-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 384.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1464,7 +1464,7 @@
   },
   {
     "timestamp": "2024-06-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 390.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1478,7 +1478,7 @@
   },
   {
     "timestamp": "2024-06-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 433.41,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1492,7 +1492,7 @@
   },
   {
     "timestamp": "2024-06-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 511.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1506,7 +1506,7 @@
   },
   {
     "timestamp": "2024-06-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 222.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1520,7 +1520,7 @@
   },
   {
     "timestamp": "2024-06-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 247.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1534,7 +1534,7 @@
   },
   {
     "timestamp": "2024-06-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 471.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1548,7 +1548,7 @@
   },
   {
     "timestamp": "2024-06-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 447.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1562,7 +1562,7 @@
   },
   {
     "timestamp": "2024-06-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 343.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1576,7 +1576,7 @@
   },
   {
     "timestamp": "2024-06-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 353.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1590,7 +1590,7 @@
   },
   {
     "timestamp": "2024-06-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 388.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1604,7 +1604,7 @@
   },
   {
     "timestamp": "2024-06-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 227.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1618,7 +1618,7 @@
   },
   {
     "timestamp": "2024-06-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 413.35,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1632,7 +1632,7 @@
   },
   {
     "timestamp": "2024-06-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1016.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1646,7 +1646,7 @@
   },
   {
     "timestamp": "2024-06-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 311.89,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1660,7 +1660,7 @@
   },
   {
     "timestamp": "2024-06-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 284.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1674,7 +1674,7 @@
   },
   {
     "timestamp": "2024-06-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 692.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1688,7 +1688,7 @@
   },
   {
     "timestamp": "2024-06-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1028.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1702,7 +1702,7 @@
   },
   {
     "timestamp": "2024-06-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 202.06,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1716,7 +1716,7 @@
   },
   {
     "timestamp": "2024-06-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1036.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1730,7 +1730,7 @@
   },
   {
     "timestamp": "2024-06-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 751.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1744,7 +1744,7 @@
   },
   {
     "timestamp": "2024-06-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 840.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1758,7 +1758,7 @@
   },
   {
     "timestamp": "2024-06-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 729.22,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1772,7 +1772,7 @@
   },
   {
     "timestamp": "2024-06-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 674.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1786,7 +1786,7 @@
   },
   {
     "timestamp": "2024-06-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 635.49,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1800,7 +1800,7 @@
   },
   {
     "timestamp": "2024-06-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 376.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1814,7 +1814,7 @@
   },
   {
     "timestamp": "2024-06-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 920.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1828,7 +1828,7 @@
   },
   {
     "timestamp": "2024-06-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 475.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1842,7 +1842,7 @@
   },
   {
     "timestamp": "2024-07-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 479.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1856,7 +1856,7 @@
   },
   {
     "timestamp": "2024-07-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 503.27,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1870,7 +1870,7 @@
   },
   {
     "timestamp": "2024-07-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 220.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1884,7 +1884,7 @@
   },
   {
     "timestamp": "2024-07-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 99.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1898,7 +1898,7 @@
   },
   {
     "timestamp": "2024-07-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 882.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1912,7 +1912,7 @@
   },
   {
     "timestamp": "2024-07-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 360.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1926,7 +1926,7 @@
   },
   {
     "timestamp": "2024-07-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 824.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1940,7 +1940,7 @@
   },
   {
     "timestamp": "2024-07-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1332.08,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1954,7 +1954,7 @@
   },
   {
     "timestamp": "2024-07-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 249.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1968,7 +1968,7 @@
   },
   {
     "timestamp": "2024-07-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1082.86,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1982,7 +1982,7 @@
   },
   {
     "timestamp": "2024-07-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 171.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -1996,7 +1996,7 @@
   },
   {
     "timestamp": "2024-07-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 441.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2010,7 +2010,7 @@
   },
   {
     "timestamp": "2024-07-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 231.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2024,7 +2024,7 @@
   },
   {
     "timestamp": "2024-07-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 355.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2038,7 +2038,7 @@
   },
   {
     "timestamp": "2024-07-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 25.51,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2052,7 +2052,7 @@
   },
   {
     "timestamp": "2024-07-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 465.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2066,7 +2066,7 @@
   },
   {
     "timestamp": "2024-07-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 266.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2080,7 +2080,7 @@
   },
   {
     "timestamp": "2024-07-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 845.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2094,7 +2094,7 @@
   },
   {
     "timestamp": "2024-07-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 723.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2108,7 +2108,7 @@
   },
   {
     "timestamp": "2024-07-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 366.51,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2122,7 +2122,7 @@
   },
   {
     "timestamp": "2024-07-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 308.05,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2136,7 +2136,7 @@
   },
   {
     "timestamp": "2024-07-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 115.27,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2150,7 +2150,7 @@
   },
   {
     "timestamp": "2024-07-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 472.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2164,7 +2164,7 @@
   },
   {
     "timestamp": "2024-07-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 975.63,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2178,7 +2178,7 @@
   },
   {
     "timestamp": "2024-07-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 684.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2192,7 +2192,7 @@
   },
   {
     "timestamp": "2024-07-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 469.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2206,7 +2206,7 @@
   },
   {
     "timestamp": "2024-07-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 704.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2220,7 +2220,7 @@
   },
   {
     "timestamp": "2024-07-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 101.63,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2234,7 +2234,7 @@
   },
   {
     "timestamp": "2024-07-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 583.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2248,7 +2248,7 @@
   },
   {
     "timestamp": "2024-07-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 346.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2262,7 +2262,7 @@
   },
   {
     "timestamp": "2024-07-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 407.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2276,7 +2276,7 @@
   },
   {
     "timestamp": "2024-08-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 252.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2290,7 +2290,7 @@
   },
   {
     "timestamp": "2024-08-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 244.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2304,7 +2304,7 @@
   },
   {
     "timestamp": "2024-08-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 879.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2318,7 +2318,7 @@
   },
   {
     "timestamp": "2024-08-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 246.89,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2332,7 +2332,7 @@
   },
   {
     "timestamp": "2024-08-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 486.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2346,7 +2346,7 @@
   },
   {
     "timestamp": "2024-08-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 505.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2360,7 +2360,7 @@
   },
   {
     "timestamp": "2024-08-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1363.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2374,7 +2374,7 @@
   },
   {
     "timestamp": "2024-08-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 87.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2388,7 +2388,7 @@
   },
   {
     "timestamp": "2024-08-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 403.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2402,7 +2402,7 @@
   },
   {
     "timestamp": "2024-08-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 724.22,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2416,7 +2416,7 @@
   },
   {
     "timestamp": "2024-08-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 477.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2430,7 +2430,7 @@
   },
   {
     "timestamp": "2024-08-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 343.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2444,7 +2444,7 @@
   },
   {
     "timestamp": "2024-08-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 571.07,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2458,7 +2458,7 @@
   },
   {
     "timestamp": "2024-08-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 942.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2472,7 +2472,7 @@
   },
   {
     "timestamp": "2024-08-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 401.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2486,7 +2486,7 @@
   },
   {
     "timestamp": "2024-08-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 254.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2500,7 +2500,7 @@
   },
   {
     "timestamp": "2024-08-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 349.49,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2514,7 +2514,7 @@
   },
   {
     "timestamp": "2024-08-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 129.22,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2528,7 +2528,7 @@
   },
   {
     "timestamp": "2024-08-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1079.61,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2542,7 +2542,7 @@
   },
   {
     "timestamp": "2024-08-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 308.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2556,7 +2556,7 @@
   },
   {
     "timestamp": "2024-08-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 359.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2570,7 +2570,7 @@
   },
   {
     "timestamp": "2024-08-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 518.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2584,7 +2584,7 @@
   },
   {
     "timestamp": "2024-08-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 884.53,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2598,7 +2598,7 @@
   },
   {
     "timestamp": "2024-08-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 503.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2612,7 +2612,7 @@
   },
   {
     "timestamp": "2024-08-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 238.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2626,7 +2626,7 @@
   },
   {
     "timestamp": "2024-08-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 225.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2640,7 +2640,7 @@
   },
   {
     "timestamp": "2024-08-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 258.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2654,7 +2654,7 @@
   },
   {
     "timestamp": "2024-08-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 120.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2668,7 +2668,7 @@
   },
   {
     "timestamp": "2024-08-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 967.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2682,7 +2682,7 @@
   },
   {
     "timestamp": "2024-08-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 796.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2696,7 +2696,7 @@
   },
   {
     "timestamp": "2024-08-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 399.41,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2710,7 +2710,7 @@
   },
   {
     "timestamp": "2024-09-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 316.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2724,7 +2724,7 @@
   },
   {
     "timestamp": "2024-09-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 280.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2738,7 +2738,7 @@
   },
   {
     "timestamp": "2024-09-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 227.64,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2752,7 +2752,7 @@
   },
   {
     "timestamp": "2024-09-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 498.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2766,7 +2766,7 @@
   },
   {
     "timestamp": "2024-09-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 182.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2780,7 +2780,7 @@
   },
   {
     "timestamp": "2024-09-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 318.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2794,7 +2794,7 @@
   },
   {
     "timestamp": "2024-09-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 265.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2808,7 +2808,7 @@
   },
   {
     "timestamp": "2024-09-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 279.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2822,7 +2822,7 @@
   },
   {
     "timestamp": "2024-09-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 601.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2836,7 +2836,7 @@
   },
   {
     "timestamp": "2024-09-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 295.81,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2850,7 +2850,7 @@
   },
   {
     "timestamp": "2024-09-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 353.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2864,7 +2864,7 @@
   },
   {
     "timestamp": "2024-09-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 302.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2878,7 +2878,7 @@
   },
   {
     "timestamp": "2024-09-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 62.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2892,7 +2892,7 @@
   },
   {
     "timestamp": "2024-09-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 427.92,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2906,7 +2906,7 @@
   },
   {
     "timestamp": "2024-09-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 534.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2920,7 +2920,7 @@
   },
   {
     "timestamp": "2024-09-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 466.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2934,7 +2934,7 @@
   },
   {
     "timestamp": "2024-09-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 337.03,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2948,7 +2948,7 @@
   },
   {
     "timestamp": "2024-09-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 107.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2962,7 +2962,7 @@
   },
   {
     "timestamp": "2024-09-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1160.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2976,7 +2976,7 @@
   },
   {
     "timestamp": "2024-09-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 705.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -2990,7 +2990,7 @@
   },
   {
     "timestamp": "2024-09-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 731.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3004,7 +3004,7 @@
   },
   {
     "timestamp": "2024-09-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1326.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3018,7 +3018,7 @@
   },
   {
     "timestamp": "2024-09-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 644.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3032,7 +3032,7 @@
   },
   {
     "timestamp": "2024-09-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1035.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3046,7 +3046,7 @@
   },
   {
     "timestamp": "2024-09-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 836.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3060,7 +3060,7 @@
   },
   {
     "timestamp": "2024-09-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 800.35,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3074,7 +3074,7 @@
   },
   {
     "timestamp": "2024-09-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 419.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3088,7 +3088,7 @@
   },
   {
     "timestamp": "2024-09-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 254.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3102,7 +3102,7 @@
   },
   {
     "timestamp": "2024-09-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 668.14,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3116,7 +3116,7 @@
   },
   {
     "timestamp": "2024-09-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 828.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3130,7 +3130,7 @@
   },
   {
     "timestamp": "2024-10-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1323.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3144,7 +3144,7 @@
   },
   {
     "timestamp": "2024-10-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 704.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3158,7 +3158,7 @@
   },
   {
     "timestamp": "2024-10-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 974.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3172,7 +3172,7 @@
   },
   {
     "timestamp": "2024-10-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 606.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3186,7 +3186,7 @@
   },
   {
     "timestamp": "2024-10-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1370.63,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3200,7 +3200,7 @@
   },
   {
     "timestamp": "2024-10-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1280.06,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3214,7 +3214,7 @@
   },
   {
     "timestamp": "2024-10-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 365.5,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3228,7 +3228,7 @@
   },
   {
     "timestamp": "2024-10-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 747.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3242,7 +3242,7 @@
   },
   {
     "timestamp": "2024-10-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 883.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3256,7 +3256,7 @@
   },
   {
     "timestamp": "2024-10-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 595.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3270,7 +3270,7 @@
   },
   {
     "timestamp": "2024-10-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 89.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3284,7 +3284,7 @@
   },
   {
     "timestamp": "2024-10-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1887.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3298,7 +3298,7 @@
   },
   {
     "timestamp": "2024-10-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 581.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3312,7 +3312,7 @@
   },
   {
     "timestamp": "2024-10-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 480.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3326,7 +3326,7 @@
   },
   {
     "timestamp": "2024-10-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 486.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3340,7 +3340,7 @@
   },
   {
     "timestamp": "2024-10-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 781.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3354,7 +3354,7 @@
   },
   {
     "timestamp": "2024-10-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 426.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3368,7 +3368,7 @@
   },
   {
     "timestamp": "2024-10-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 323.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3382,7 +3382,7 @@
   },
   {
     "timestamp": "2024-10-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 343.7,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3396,7 +3396,7 @@
   },
   {
     "timestamp": "2024-10-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 333.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3410,7 +3410,7 @@
   },
   {
     "timestamp": "2024-10-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 606.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3424,7 +3424,7 @@
   },
   {
     "timestamp": "2024-10-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 553.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3438,7 +3438,7 @@
   },
   {
     "timestamp": "2024-10-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 613.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3452,7 +3452,7 @@
   },
   {
     "timestamp": "2024-10-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 606.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3466,7 +3466,7 @@
   },
   {
     "timestamp": "2024-10-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 549.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3480,7 +3480,7 @@
   },
   {
     "timestamp": "2024-10-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 285.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3494,7 +3494,7 @@
   },
   {
     "timestamp": "2024-10-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 836.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3508,7 +3508,7 @@
   },
   {
     "timestamp": "2024-10-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 622.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3522,7 +3522,7 @@
   },
   {
     "timestamp": "2024-10-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 730.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3536,7 +3536,7 @@
   },
   {
     "timestamp": "2024-10-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 353.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3550,7 +3550,7 @@
   },
   {
     "timestamp": "2024-10-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 725.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3564,7 +3564,7 @@
   },
   {
     "timestamp": "2024-11-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 401.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3578,7 +3578,7 @@
   },
   {
     "timestamp": "2024-11-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 448.61,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3592,7 +3592,7 @@
   },
   {
     "timestamp": "2024-11-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 499.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3606,7 +3606,7 @@
   },
   {
     "timestamp": "2024-11-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 593.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3620,7 +3620,7 @@
   },
   {
     "timestamp": "2024-11-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 405.89,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3634,7 +3634,7 @@
   },
   {
     "timestamp": "2024-11-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 316.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3648,7 +3648,7 @@
   },
   {
     "timestamp": "2024-11-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 488.7,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3662,7 +3662,7 @@
   },
   {
     "timestamp": "2024-11-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 838.05,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3676,7 +3676,7 @@
   },
   {
     "timestamp": "2024-11-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 609.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3690,7 +3690,7 @@
   },
   {
     "timestamp": "2024-11-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 754.24,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3704,7 +3704,7 @@
   },
   {
     "timestamp": "2024-11-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 357.78,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3718,7 +3718,7 @@
   },
   {
     "timestamp": "2024-11-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 709.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3732,7 +3732,7 @@
   },
   {
     "timestamp": "2024-11-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 405.14,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3746,7 +3746,7 @@
   },
   {
     "timestamp": "2024-11-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 298.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3760,7 +3760,7 @@
   },
   {
     "timestamp": "2024-11-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 729.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3774,7 +3774,7 @@
   },
   {
     "timestamp": "2024-11-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 841.86,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3788,7 +3788,7 @@
   },
   {
     "timestamp": "2024-11-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 476.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3802,7 +3802,7 @@
   },
   {
     "timestamp": "2024-11-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 465.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3816,7 +3816,7 @@
   },
   {
     "timestamp": "2024-11-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 408.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3830,7 +3830,7 @@
   },
   {
     "timestamp": "2024-11-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 277.85,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3844,7 +3844,7 @@
   },
   {
     "timestamp": "2024-11-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 423.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3858,7 +3858,7 @@
   },
   {
     "timestamp": "2024-11-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 535.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3872,7 +3872,7 @@
   },
   {
     "timestamp": "2024-11-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 767.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3886,7 +3886,7 @@
   },
   {
     "timestamp": "2024-11-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 504.68,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3900,7 +3900,7 @@
   },
   {
     "timestamp": "2024-11-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 824.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3914,7 +3914,7 @@
   },
   {
     "timestamp": "2024-11-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 559.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3928,7 +3928,7 @@
   },
   {
     "timestamp": "2024-11-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 464.06,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3942,7 +3942,7 @@
   },
   {
     "timestamp": "2024-11-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 594.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3956,7 +3956,7 @@
   },
   {
     "timestamp": "2024-11-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 590.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3970,7 +3970,7 @@
   },
   {
     "timestamp": "2024-11-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 687.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3984,7 +3984,7 @@
   },
   {
     "timestamp": "2024-12-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 588.01,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -3998,7 +3998,7 @@
   },
   {
     "timestamp": "2024-12-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 535.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4012,7 +4012,7 @@
   },
   {
     "timestamp": "2024-12-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 409.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4026,7 +4026,7 @@
   },
   {
     "timestamp": "2024-12-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 457.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4040,7 +4040,7 @@
   },
   {
     "timestamp": "2024-12-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 464.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4054,7 +4054,7 @@
   },
   {
     "timestamp": "2024-12-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 376.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4068,7 +4068,7 @@
   },
   {
     "timestamp": "2024-12-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 822.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4082,7 +4082,7 @@
   },
   {
     "timestamp": "2024-12-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1273.53,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4096,7 +4096,7 @@
   },
   {
     "timestamp": "2024-12-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 359.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4110,7 +4110,7 @@
   },
   {
     "timestamp": "2024-12-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 686.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4124,7 +4124,7 @@
   },
   {
     "timestamp": "2024-12-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 592.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4138,7 +4138,7 @@
   },
   {
     "timestamp": "2024-12-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 606.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4152,7 +4152,7 @@
   },
   {
     "timestamp": "2024-12-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 452.63,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4166,7 +4166,7 @@
   },
   {
     "timestamp": "2024-12-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 834.7,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4180,7 +4180,7 @@
   },
   {
     "timestamp": "2024-12-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 413.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4194,7 +4194,7 @@
   },
   {
     "timestamp": "2024-12-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 601.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4208,7 +4208,7 @@
   },
   {
     "timestamp": "2024-12-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 749.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4222,7 +4222,7 @@
   },
   {
     "timestamp": "2024-12-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 979.64,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4236,7 +4236,7 @@
   },
   {
     "timestamp": "2024-12-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 718.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4250,7 +4250,7 @@
   },
   {
     "timestamp": "2024-12-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 605.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4264,7 +4264,7 @@
   },
   {
     "timestamp": "2024-12-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 199.07,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4278,7 +4278,7 @@
   },
   {
     "timestamp": "2024-12-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 932.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4292,7 +4292,7 @@
   },
   {
     "timestamp": "2024-12-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 827.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4306,7 +4306,7 @@
   },
   {
     "timestamp": "2024-12-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 324.49,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4320,7 +4320,7 @@
   },
   {
     "timestamp": "2024-12-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 378.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4334,7 +4334,7 @@
   },
   {
     "timestamp": "2024-12-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 149.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4348,7 +4348,7 @@
   },
   {
     "timestamp": "2024-12-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 780.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4362,7 +4362,7 @@
   },
   {
     "timestamp": "2024-12-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 535.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4376,7 +4376,7 @@
   },
   {
     "timestamp": "2024-12-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 647.59,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4390,7 +4390,7 @@
   },
   {
     "timestamp": "2024-12-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 443.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4404,7 +4404,7 @@
   },
   {
     "timestamp": "2024-12-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 184.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4418,7 +4418,7 @@
   },
   {
     "timestamp": "2025-01-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 244.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4432,7 +4432,7 @@
   },
   {
     "timestamp": "2025-01-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 738.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4446,7 +4446,7 @@
   },
   {
     "timestamp": "2025-01-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 626.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4460,7 +4460,7 @@
   },
   {
     "timestamp": "2025-01-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 686.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4474,7 +4474,7 @@
   },
   {
     "timestamp": "2025-01-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 913.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4488,7 +4488,7 @@
   },
   {
     "timestamp": "2025-01-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 268.24,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4502,7 +4502,7 @@
   },
   {
     "timestamp": "2025-01-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 473.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4516,7 +4516,7 @@
   },
   {
     "timestamp": "2025-01-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 294.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4530,7 +4530,7 @@
   },
   {
     "timestamp": "2025-01-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 455.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4544,7 +4544,7 @@
   },
   {
     "timestamp": "2025-01-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1113.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4558,7 +4558,7 @@
   },
   {
     "timestamp": "2025-01-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 105.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4572,7 +4572,7 @@
   },
   {
     "timestamp": "2025-01-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 640.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4586,7 +4586,7 @@
   },
   {
     "timestamp": "2025-01-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 492.81,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4600,7 +4600,7 @@
   },
   {
     "timestamp": "2025-01-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 79.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4614,7 +4614,7 @@
   },
   {
     "timestamp": "2025-01-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 671.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4628,7 +4628,7 @@
   },
   {
     "timestamp": "2025-01-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 449.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4642,7 +4642,7 @@
   },
   {
     "timestamp": "2025-01-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 380.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4656,7 +4656,7 @@
   },
   {
     "timestamp": "2025-01-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 363.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4670,7 +4670,7 @@
   },
   {
     "timestamp": "2025-01-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 811.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4684,7 +4684,7 @@
   },
   {
     "timestamp": "2025-01-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 464.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4698,7 +4698,7 @@
   },
   {
     "timestamp": "2025-01-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 862.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4712,7 +4712,7 @@
   },
   {
     "timestamp": "2025-01-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1307.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4726,7 +4726,7 @@
   },
   {
     "timestamp": "2025-01-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 943.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4740,7 +4740,7 @@
   },
   {
     "timestamp": "2025-01-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 533.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4754,7 +4754,7 @@
   },
   {
     "timestamp": "2025-01-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 587.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4768,7 +4768,7 @@
   },
   {
     "timestamp": "2025-01-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 460.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4782,7 +4782,7 @@
   },
   {
     "timestamp": "2025-01-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 46.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4796,7 +4796,7 @@
   },
   {
     "timestamp": "2025-01-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 6.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4810,7 +4810,7 @@
   },
   {
     "timestamp": "2025-01-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 288.06,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4824,7 +4824,7 @@
   },
   {
     "timestamp": "2025-01-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 594.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4838,7 +4838,7 @@
   },
   {
     "timestamp": "2025-01-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 825.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4852,7 +4852,7 @@
   },
   {
     "timestamp": "2025-02-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 534.5,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4866,7 +4866,7 @@
   },
   {
     "timestamp": "2025-02-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 620.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4880,7 +4880,7 @@
   },
   {
     "timestamp": "2025-02-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 861.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4894,7 +4894,7 @@
   },
   {
     "timestamp": "2025-02-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 515.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4908,7 +4908,7 @@
   },
   {
     "timestamp": "2025-02-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 660.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4922,7 +4922,7 @@
   },
   {
     "timestamp": "2025-02-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 823.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4936,7 +4936,7 @@
   },
   {
     "timestamp": "2025-02-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 481.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4950,7 +4950,7 @@
   },
   {
     "timestamp": "2025-02-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1068.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4964,7 +4964,7 @@
   },
   {
     "timestamp": "2025-02-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 488.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4978,7 +4978,7 @@
   },
   {
     "timestamp": "2025-02-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 542.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -4992,7 +4992,7 @@
   },
   {
     "timestamp": "2025-02-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 359.78,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5006,7 +5006,7 @@
   },
   {
     "timestamp": "2025-02-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 193.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5020,7 +5020,7 @@
   },
   {
     "timestamp": "2025-02-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 625.24,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5034,7 +5034,7 @@
   },
   {
     "timestamp": "2025-02-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 258.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5048,7 +5048,7 @@
   },
   {
     "timestamp": "2025-02-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1330.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5062,7 +5062,7 @@
   },
   {
     "timestamp": "2025-02-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 734.27,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5076,7 +5076,7 @@
   },
   {
     "timestamp": "2025-02-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 645.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5090,7 +5090,7 @@
   },
   {
     "timestamp": "2025-02-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 635.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5104,7 +5104,7 @@
   },
   {
     "timestamp": "2025-02-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 652.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5118,7 +5118,7 @@
   },
   {
     "timestamp": "2025-02-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 555.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5132,7 +5132,7 @@
   },
   {
     "timestamp": "2025-02-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 138.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5146,7 +5146,7 @@
   },
   {
     "timestamp": "2025-02-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 539.68,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5160,7 +5160,7 @@
   },
   {
     "timestamp": "2025-02-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1023.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5174,7 +5174,7 @@
   },
   {
     "timestamp": "2025-02-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 765.69,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5188,7 +5188,7 @@
   },
   {
     "timestamp": "2025-02-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 938.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5202,7 +5202,7 @@
   },
   {
     "timestamp": "2025-02-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 836.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5216,7 +5216,7 @@
   },
   {
     "timestamp": "2025-02-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 415.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5230,7 +5230,7 @@
   },
   {
     "timestamp": "2025-02-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 257.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5244,7 +5244,7 @@
   },
   {
     "timestamp": "2025-03-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 579.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5258,7 +5258,7 @@
   },
   {
     "timestamp": "2025-03-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 180.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5272,7 +5272,7 @@
   },
   {
     "timestamp": "2025-03-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 621.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5286,7 +5286,7 @@
   },
   {
     "timestamp": "2025-03-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 672.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5300,7 +5300,7 @@
   },
   {
     "timestamp": "2025-03-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 452.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5314,7 +5314,7 @@
   },
   {
     "timestamp": "2025-03-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 243.67,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5328,7 +5328,7 @@
   },
   {
     "timestamp": "2025-03-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 687.5,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5342,7 +5342,7 @@
   },
   {
     "timestamp": "2025-03-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 617.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5356,7 +5356,7 @@
   },
   {
     "timestamp": "2025-03-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 585.26,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5370,7 +5370,7 @@
   },
   {
     "timestamp": "2025-03-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 241.14,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5384,7 +5384,7 @@
   },
   {
     "timestamp": "2025-03-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 553.89,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5398,7 +5398,7 @@
   },
   {
     "timestamp": "2025-03-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 324.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5412,7 +5412,7 @@
   },
   {
     "timestamp": "2025-03-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 437.78,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5426,7 +5426,7 @@
   },
   {
     "timestamp": "2025-03-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 837.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5440,7 +5440,7 @@
   },
   {
     "timestamp": "2025-03-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 375.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5454,7 +5454,7 @@
   },
   {
     "timestamp": "2025-03-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1165.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5468,7 +5468,7 @@
   },
   {
     "timestamp": "2025-03-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 474.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5482,7 +5482,7 @@
   },
   {
     "timestamp": "2025-03-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 481.52,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5496,7 +5496,7 @@
   },
   {
     "timestamp": "2025-03-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1215.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5510,7 +5510,7 @@
   },
   {
     "timestamp": "2025-03-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 704.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5524,7 +5524,7 @@
   },
   {
     "timestamp": "2025-03-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 709.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5538,7 +5538,7 @@
   },
   {
     "timestamp": "2025-03-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 348.5,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5552,7 +5552,7 @@
   },
   {
     "timestamp": "2025-03-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 431.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5566,7 +5566,7 @@
   },
   {
     "timestamp": "2025-03-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 592.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5580,7 +5580,7 @@
   },
   {
     "timestamp": "2025-03-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 574.85,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5594,7 +5594,7 @@
   },
   {
     "timestamp": "2025-03-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 381.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5608,7 +5608,7 @@
   },
   {
     "timestamp": "2025-03-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 347.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5622,7 +5622,7 @@
   },
   {
     "timestamp": "2025-03-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 681.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5636,7 +5636,7 @@
   },
   {
     "timestamp": "2025-03-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 430.41,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5650,7 +5650,7 @@
   },
   {
     "timestamp": "2025-03-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 204.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5664,7 +5664,7 @@
   },
   {
     "timestamp": "2025-03-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 531.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5678,7 +5678,7 @@
   },
   {
     "timestamp": "2025-04-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 489.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5692,7 +5692,7 @@
   },
   {
     "timestamp": "2025-04-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 200.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5706,7 +5706,7 @@
   },
   {
     "timestamp": "2025-04-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 568.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5720,7 +5720,7 @@
   },
   {
     "timestamp": "2025-04-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 494.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5734,7 +5734,7 @@
   },
   {
     "timestamp": "2025-04-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 458.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5748,7 +5748,7 @@
   },
   {
     "timestamp": "2025-04-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1022.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5762,7 +5762,7 @@
   },
   {
     "timestamp": "2025-04-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 497.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5776,7 +5776,7 @@
   },
   {
     "timestamp": "2025-04-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 6.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5790,7 +5790,7 @@
   },
   {
     "timestamp": "2025-04-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 5.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5804,7 +5804,7 @@
   },
   {
     "timestamp": "2025-04-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 293.76,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5818,7 +5818,7 @@
   },
   {
     "timestamp": "2025-04-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 946.13,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5832,7 +5832,7 @@
   },
   {
     "timestamp": "2025-04-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 186.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5846,7 +5846,7 @@
   },
   {
     "timestamp": "2025-04-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 38.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5860,7 +5860,7 @@
   },
   {
     "timestamp": "2025-04-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 503.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5874,7 +5874,7 @@
   },
   {
     "timestamp": "2025-04-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 364.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5888,7 +5888,7 @@
   },
   {
     "timestamp": "2025-04-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 95.92,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5902,7 +5902,7 @@
   },
   {
     "timestamp": "2025-04-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 232.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5916,7 +5916,7 @@
   },
   {
     "timestamp": "2025-04-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 600.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5930,7 +5930,7 @@
   },
   {
     "timestamp": "2025-04-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 111.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5944,7 +5944,7 @@
   },
   {
     "timestamp": "2025-04-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 308.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5958,7 +5958,7 @@
   },
   {
     "timestamp": "2025-04-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 584.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5972,7 +5972,7 @@
   },
   {
     "timestamp": "2025-04-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 590.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -5986,7 +5986,7 @@
   },
   {
     "timestamp": "2025-04-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 592.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6000,7 +6000,7 @@
   },
   {
     "timestamp": "2025-04-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 490.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6014,7 +6014,7 @@
   },
   {
     "timestamp": "2025-04-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 307.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6028,7 +6028,7 @@
   },
   {
     "timestamp": "2025-04-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 505.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6042,7 +6042,7 @@
   },
   {
     "timestamp": "2025-04-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 427.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6056,7 +6056,7 @@
   },
   {
     "timestamp": "2025-04-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 4.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6070,7 +6070,7 @@
   },
   {
     "timestamp": "2025-04-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 158.67,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6084,7 +6084,7 @@
   },
   {
     "timestamp": "2025-04-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 234.85,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6098,7 +6098,7 @@
   },
   {
     "timestamp": "2025-05-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 808.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6112,7 +6112,7 @@
   },
   {
     "timestamp": "2025-05-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 613.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6126,7 +6126,7 @@
   },
   {
     "timestamp": "2025-05-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 737.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6140,7 +6140,7 @@
   },
   {
     "timestamp": "2025-05-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 28.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6154,7 +6154,7 @@
   },
   {
     "timestamp": "2025-05-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 554.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6168,7 +6168,7 @@
   },
   {
     "timestamp": "2025-05-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 72.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6203,7 +6203,7 @@
   },
   {
     "timestamp": "2025-05-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 802.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6217,7 +6217,7 @@
   },
   {
     "timestamp": "2025-05-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 719.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6231,7 +6231,7 @@
   },
   {
     "timestamp": "2025-05-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 10.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6245,7 +6245,7 @@
   },
   {
     "timestamp": "2025-05-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 511.59,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6259,7 +6259,7 @@
   },
   {
     "timestamp": "2025-05-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 167.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6273,7 +6273,7 @@
   },
   {
     "timestamp": "2025-05-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 145.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6287,7 +6287,7 @@
   },
   {
     "timestamp": "2025-05-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 12.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6301,7 +6301,7 @@
   },
   {
     "timestamp": "2025-05-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 820.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6315,7 +6315,7 @@
   },
   {
     "timestamp": "2025-05-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 254.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6329,7 +6329,7 @@
   },
   {
     "timestamp": "2025-05-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 188.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6343,7 +6343,7 @@
   },
   {
     "timestamp": "2025-05-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 409.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6371,7 +6371,7 @@
   },
   {
     "timestamp": "2025-05-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 404.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6385,7 +6385,7 @@
   },
   {
     "timestamp": "2025-05-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 541.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6399,7 +6399,7 @@
   },
   {
     "timestamp": "2025-05-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 827.67,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6413,7 +6413,7 @@
   },
   {
     "timestamp": "2025-05-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 701.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6427,7 +6427,7 @@
   },
   {
     "timestamp": "2025-05-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 372.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6441,7 +6441,7 @@
   },
   {
     "timestamp": "2025-05-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 838.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6455,7 +6455,7 @@
   },
   {
     "timestamp": "2025-05-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 305.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6469,7 +6469,7 @@
   },
   {
     "timestamp": "2025-05-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 520.45,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6483,7 +6483,7 @@
   },
   {
     "timestamp": "2025-05-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 646.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6497,7 +6497,7 @@
   },
   {
     "timestamp": "2025-06-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 206.82,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6511,7 +6511,7 @@
   },
   {
     "timestamp": "2025-06-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 504.03,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6525,7 +6525,7 @@
   },
   {
     "timestamp": "2025-06-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 510.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6539,7 +6539,7 @@
   },
   {
     "timestamp": "2025-06-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 418.13,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6553,7 +6553,7 @@
   },
   {
     "timestamp": "2025-06-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 389.49,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6567,7 +6567,7 @@
   },
   {
     "timestamp": "2025-06-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 482.03,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6581,7 +6581,7 @@
   },
   {
     "timestamp": "2025-06-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 188.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6595,7 +6595,7 @@
   },
   {
     "timestamp": "2025-06-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 586.5,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6609,7 +6609,7 @@
   },
   {
     "timestamp": "2025-06-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 97.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6623,7 +6623,7 @@
   },
   {
     "timestamp": "2025-06-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 195.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6637,7 +6637,7 @@
   },
   {
     "timestamp": "2025-06-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 101.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6651,7 +6651,7 @@
   },
   {
     "timestamp": "2025-06-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 284.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6665,7 +6665,7 @@
   },
   {
     "timestamp": "2025-06-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 140.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6679,7 +6679,7 @@
   },
   {
     "timestamp": "2025-06-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 375.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6693,7 +6693,7 @@
   },
   {
     "timestamp": "2025-06-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6707,7 +6707,7 @@
   },
   {
     "timestamp": "2025-06-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 0.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6721,7 +6721,7 @@
   },
   {
     "timestamp": "2025-06-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 71.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6735,7 +6735,7 @@
   },
   {
     "timestamp": "2025-06-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 89.35,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6749,7 +6749,7 @@
   },
   {
     "timestamp": "2025-06-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 464.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6763,7 +6763,7 @@
   },
   {
     "timestamp": "2025-06-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 5.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6826,7 +6826,7 @@
   },
   {
     "timestamp": "2025-06-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 181.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6840,7 +6840,7 @@
   },
   {
     "timestamp": "2025-06-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 323.79,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6854,7 +6854,7 @@
   },
   {
     "timestamp": "2025-06-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 2.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6889,7 +6889,7 @@
   },
   {
     "timestamp": "2025-07-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 407.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6903,7 +6903,7 @@
   },
   {
     "timestamp": "2025-07-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 677.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6917,7 +6917,7 @@
   },
   {
     "timestamp": "2025-07-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 307.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6931,7 +6931,7 @@
   },
   {
     "timestamp": "2025-07-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 736.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6945,7 +6945,7 @@
   },
   {
     "timestamp": "2025-07-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 448.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6959,7 +6959,7 @@
   },
   {
     "timestamp": "2025-07-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 625.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6973,7 +6973,7 @@
   },
   {
     "timestamp": "2025-07-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 554.78,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -6987,7 +6987,7 @@
   },
   {
     "timestamp": "2025-07-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 534.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7008,7 +7008,7 @@
   },
   {
     "timestamp": "2025-07-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 283.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7029,7 +7029,7 @@
   },
   {
     "timestamp": "2025-07-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 710.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7043,7 +7043,7 @@
   },
   {
     "timestamp": "2025-07-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 168.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7057,7 +7057,7 @@
   },
   {
     "timestamp": "2025-07-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 100.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7071,7 +7071,7 @@
   },
   {
     "timestamp": "2025-07-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 742.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7085,7 +7085,7 @@
   },
   {
     "timestamp": "2025-07-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 517.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7099,7 +7099,7 @@
   },
   {
     "timestamp": "2025-07-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 393.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7113,7 +7113,7 @@
   },
   {
     "timestamp": "2025-07-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 518.67,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7127,7 +7127,7 @@
   },
   {
     "timestamp": "2025-07-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 564.67,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7141,7 +7141,7 @@
   },
   {
     "timestamp": "2025-07-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 307.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7155,7 +7155,7 @@
   },
   {
     "timestamp": "2025-07-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 381.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7169,7 +7169,7 @@
   },
   {
     "timestamp": "2025-07-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 273.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7183,7 +7183,7 @@
   },
   {
     "timestamp": "2025-07-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 580.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7197,7 +7197,7 @@
   },
   {
     "timestamp": "2025-07-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 534.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7211,7 +7211,7 @@
   },
   {
     "timestamp": "2025-07-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 487.32,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7225,7 +7225,7 @@
   },
   {
     "timestamp": "2025-07-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 664.52,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7239,7 +7239,7 @@
   },
   {
     "timestamp": "2025-07-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 569.41,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7253,7 +7253,7 @@
   },
   {
     "timestamp": "2025-07-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 378.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7267,7 +7267,7 @@
   },
   {
     "timestamp": "2025-08-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 286.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7281,7 +7281,7 @@
   },
   {
     "timestamp": "2025-08-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 721.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7295,7 +7295,7 @@
   },
   {
     "timestamp": "2025-08-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 626.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7309,7 +7309,7 @@
   },
   {
     "timestamp": "2025-08-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 272.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7323,7 +7323,7 @@
   },
   {
     "timestamp": "2025-08-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 555.38,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7337,7 +7337,7 @@
   },
   {
     "timestamp": "2025-08-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 736.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7351,7 +7351,7 @@
   },
   {
     "timestamp": "2025-08-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 596.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7365,7 +7365,7 @@
   },
   {
     "timestamp": "2025-08-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 437.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7379,7 +7379,7 @@
   },
   {
     "timestamp": "2025-08-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 711.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7393,7 +7393,7 @@
   },
   {
     "timestamp": "2025-08-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 821.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7407,7 +7407,7 @@
   },
   {
     "timestamp": "2025-08-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 265.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7421,7 +7421,7 @@
   },
   {
     "timestamp": "2025-08-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 846.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7435,7 +7435,7 @@
   },
   {
     "timestamp": "2025-08-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 453.79,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7449,7 +7449,7 @@
   },
   {
     "timestamp": "2025-08-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 809.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7463,7 +7463,7 @@
   },
   {
     "timestamp": "2025-08-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 532.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7477,7 +7477,7 @@
   },
   {
     "timestamp": "2025-08-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 259.23,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7491,7 +7491,7 @@
   },
   {
     "timestamp": "2025-08-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 360.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7505,7 +7505,7 @@
   },
   {
     "timestamp": "2025-08-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 224.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7519,7 +7519,7 @@
   },
   {
     "timestamp": "2025-08-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 30.53,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7533,7 +7533,7 @@
   },
   {
     "timestamp": "2025-08-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 69.08,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7547,7 +7547,7 @@
   },
   {
     "timestamp": "2025-08-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 761.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7561,7 +7561,7 @@
   },
   {
     "timestamp": "2025-08-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 488.66,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7575,7 +7575,7 @@
   },
   {
     "timestamp": "2025-08-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 581.27,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7589,7 +7589,7 @@
   },
   {
     "timestamp": "2025-08-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 479.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7603,7 +7603,7 @@
   },
   {
     "timestamp": "2025-08-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 252.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7617,7 +7617,7 @@
   },
   {
     "timestamp": "2025-08-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 667.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7631,7 +7631,7 @@
   },
   {
     "timestamp": "2025-08-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 549.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7645,7 +7645,7 @@
   },
   {
     "timestamp": "2025-08-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 716.51,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7659,7 +7659,7 @@
   },
   {
     "timestamp": "2025-08-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 276.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7673,7 +7673,7 @@
   },
   {
     "timestamp": "2025-08-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 318.57,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7687,7 +7687,7 @@
   },
   {
     "timestamp": "2025-08-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 263.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7701,7 +7701,7 @@
   },
   {
     "timestamp": "2025-09-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 675.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7715,7 +7715,7 @@
   },
   {
     "timestamp": "2025-09-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 238.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7729,7 +7729,7 @@
   },
   {
     "timestamp": "2025-09-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 211.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7743,7 +7743,7 @@
   },
   {
     "timestamp": "2025-09-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 549.92,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7757,7 +7757,7 @@
   },
   {
     "timestamp": "2025-09-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 386.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7778,7 +7778,7 @@
   },
   {
     "timestamp": "2025-09-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 297.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7792,7 +7792,7 @@
   },
   {
     "timestamp": "2025-09-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 6.25,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7806,7 +7806,7 @@
   },
   {
     "timestamp": "2025-09-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 489.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7820,7 +7820,7 @@
   },
   {
     "timestamp": "2025-09-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 548.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7834,7 +7834,7 @@
   },
   {
     "timestamp": "2025-09-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 4.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7855,7 +7855,7 @@
   },
   {
     "timestamp": "2025-09-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 243.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7869,7 +7869,7 @@
   },
   {
     "timestamp": "2025-09-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 631.68,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7883,7 +7883,7 @@
   },
   {
     "timestamp": "2025-09-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 566.1,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7897,7 +7897,7 @@
   },
   {
     "timestamp": "2025-09-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 715.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7911,7 +7911,7 @@
   },
   {
     "timestamp": "2025-09-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 572.81,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7925,7 +7925,7 @@
   },
   {
     "timestamp": "2025-09-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 315.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7939,7 +7939,7 @@
   },
   {
     "timestamp": "2025-09-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 8.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7953,7 +7953,7 @@
   },
   {
     "timestamp": "2025-09-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 462.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7967,7 +7967,7 @@
   },
   {
     "timestamp": "2025-09-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 341.97,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7981,7 +7981,7 @@
   },
   {
     "timestamp": "2025-09-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 604.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -7995,7 +7995,7 @@
   },
   {
     "timestamp": "2025-09-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 474.94,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8009,7 +8009,7 @@
   },
   {
     "timestamp": "2025-09-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 789.49,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8023,7 +8023,7 @@
   },
   {
     "timestamp": "2025-09-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 310.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8037,7 +8037,7 @@
   },
   {
     "timestamp": "2025-09-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 221.05,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8051,7 +8051,7 @@
   },
   {
     "timestamp": "2025-09-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 618.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8065,7 +8065,7 @@
   },
   {
     "timestamp": "2025-09-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 549.19,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8079,7 +8079,7 @@
   },
   {
     "timestamp": "2025-09-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 756.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8093,7 +8093,7 @@
   },
   {
     "timestamp": "2025-09-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 623.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8107,7 +8107,7 @@
   },
   {
     "timestamp": "2025-10-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 651.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8121,7 +8121,7 @@
   },
   {
     "timestamp": "2025-10-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 352.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8135,7 +8135,7 @@
   },
   {
     "timestamp": "2025-10-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 704.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8149,7 +8149,7 @@
   },
   {
     "timestamp": "2025-10-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 515.59,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8163,7 +8163,7 @@
   },
   {
     "timestamp": "2025-10-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 564.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8177,7 +8177,7 @@
   },
   {
     "timestamp": "2025-10-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 219.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8191,7 +8191,7 @@
   },
   {
     "timestamp": "2025-10-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 793.29,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8205,7 +8205,7 @@
   },
   {
     "timestamp": "2025-10-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 549.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8219,7 +8219,7 @@
   },
   {
     "timestamp": "2025-10-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 300.51,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8233,7 +8233,7 @@
   },
   {
     "timestamp": "2025-10-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 566.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8247,7 +8247,7 @@
   },
   {
     "timestamp": "2025-10-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 345.53,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8261,7 +8261,7 @@
   },
   {
     "timestamp": "2025-10-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1031.78,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8275,7 +8275,7 @@
   },
   {
     "timestamp": "2025-10-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 572.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8289,7 +8289,7 @@
   },
   {
     "timestamp": "2025-10-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 397.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8303,7 +8303,7 @@
   },
   {
     "timestamp": "2025-10-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 196.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8317,7 +8317,7 @@
   },
   {
     "timestamp": "2025-10-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 806.36,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8331,7 +8331,7 @@
   },
   {
     "timestamp": "2025-10-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 743.11,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8345,7 +8345,7 @@
   },
   {
     "timestamp": "2025-10-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 216.75,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8359,7 +8359,7 @@
   },
   {
     "timestamp": "2025-10-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 774.51,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8373,7 +8373,7 @@
   },
   {
     "timestamp": "2025-10-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 568.08,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8387,7 +8387,7 @@
   },
   {
     "timestamp": "2025-10-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 601.15,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8401,7 +8401,7 @@
   },
   {
     "timestamp": "2025-10-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 466.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8415,7 +8415,7 @@
   },
   {
     "timestamp": "2025-10-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 615.6,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8429,7 +8429,7 @@
   },
   {
     "timestamp": "2025-10-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 333.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8443,7 +8443,7 @@
   },
   {
     "timestamp": "2025-10-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 105.62,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8457,7 +8457,7 @@
   },
   {
     "timestamp": "2025-10-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 455.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8471,7 +8471,7 @@
   },
   {
     "timestamp": "2025-10-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 186.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8485,7 +8485,7 @@
   },
   {
     "timestamp": "2025-10-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 317.8,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8499,7 +8499,7 @@
   },
   {
     "timestamp": "2025-10-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 797.34,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8513,7 +8513,7 @@
   },
   {
     "timestamp": "2025-10-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 162.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8527,7 +8527,7 @@
   },
   {
     "timestamp": "2025-10-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 28.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8541,7 +8541,7 @@
   },
   {
     "timestamp": "2025-11-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 717.28,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8555,7 +8555,7 @@
   },
   {
     "timestamp": "2025-11-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 211.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8569,7 +8569,7 @@
   },
   {
     "timestamp": "2025-11-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 307.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8583,7 +8583,7 @@
   },
   {
     "timestamp": "2025-11-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 79.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8597,7 +8597,7 @@
   },
   {
     "timestamp": "2025-11-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 373.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8611,7 +8611,7 @@
   },
   {
     "timestamp": "2025-11-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 328.22,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8625,7 +8625,7 @@
   },
   {
     "timestamp": "2025-11-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 551.2,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8639,7 +8639,7 @@
   },
   {
     "timestamp": "2025-11-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 234.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8653,7 +8653,7 @@
   },
   {
     "timestamp": "2025-11-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 305.58,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8667,7 +8667,7 @@
   },
   {
     "timestamp": "2025-11-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 175.44,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8681,7 +8681,7 @@
   },
   {
     "timestamp": "2025-11-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 556.16,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8695,7 +8695,7 @@
   },
   {
     "timestamp": "2025-11-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 360.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8709,7 +8709,7 @@
   },
   {
     "timestamp": "2025-11-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 340.07,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8723,7 +8723,7 @@
   },
   {
     "timestamp": "2025-11-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 714.31,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8737,7 +8737,7 @@
   },
   {
     "timestamp": "2025-11-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 245.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8751,7 +8751,7 @@
   },
   {
     "timestamp": "2025-11-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 502.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8765,7 +8765,7 @@
   },
   {
     "timestamp": "2025-11-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 317.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8779,7 +8779,7 @@
   },
   {
     "timestamp": "2025-11-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 392.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8793,7 +8793,7 @@
   },
   {
     "timestamp": "2025-11-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 580.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8807,7 +8807,7 @@
   },
   {
     "timestamp": "2025-11-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 605.95,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8821,7 +8821,7 @@
   },
   {
     "timestamp": "2025-11-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 294.17,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8835,7 +8835,7 @@
   },
   {
     "timestamp": "2025-11-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 448.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8849,7 +8849,7 @@
   },
   {
     "timestamp": "2025-11-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 148.96,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8863,7 +8863,7 @@
   },
   {
     "timestamp": "2025-11-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 347.42,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8877,7 +8877,7 @@
   },
   {
     "timestamp": "2025-11-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 239.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8891,7 +8891,7 @@
   },
   {
     "timestamp": "2025-11-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 431.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8905,7 +8905,7 @@
   },
   {
     "timestamp": "2025-11-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 385.02,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8919,7 +8919,7 @@
   },
   {
     "timestamp": "2025-11-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 144.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8933,7 +8933,7 @@
   },
   {
     "timestamp": "2025-11-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 521.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8947,7 +8947,7 @@
   },
   {
     "timestamp": "2025-11-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 553.74,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8961,7 +8961,7 @@
   },
   {
     "timestamp": "2025-12-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 664.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8975,7 +8975,7 @@
   },
   {
     "timestamp": "2025-12-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 254.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -8989,7 +8989,7 @@
   },
   {
     "timestamp": "2025-12-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 174.39,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9003,7 +9003,7 @@
   },
   {
     "timestamp": "2025-12-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 761.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9017,7 +9017,7 @@
   },
   {
     "timestamp": "2025-12-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 399.52,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9031,7 +9031,7 @@
   },
   {
     "timestamp": "2025-12-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 402.12,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9045,7 +9045,7 @@
   },
   {
     "timestamp": "2025-12-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 193.54,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9059,7 +9059,7 @@
   },
   {
     "timestamp": "2025-12-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 28.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9087,7 +9087,7 @@
   },
   {
     "timestamp": "2025-12-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 280.55,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9101,7 +9101,7 @@
   },
   {
     "timestamp": "2025-12-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 4.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9143,7 +9143,7 @@
   },
   {
     "timestamp": "2025-12-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 409.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9157,7 +9157,7 @@
   },
   {
     "timestamp": "2025-12-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 165.7,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9171,7 +9171,7 @@
   },
   {
     "timestamp": "2025-12-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 3.91,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9185,7 +9185,7 @@
   },
   {
     "timestamp": "2025-12-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1.68,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9241,7 +9241,7 @@
   },
   {
     "timestamp": "2025-12-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 217.56,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9255,7 +9255,7 @@
   },
   {
     "timestamp": "2025-12-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 118.09,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9269,7 +9269,7 @@
   },
   {
     "timestamp": "2025-12-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 6.81,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9283,7 +9283,7 @@
   },
   {
     "timestamp": "2025-12-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 241.88,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9297,7 +9297,7 @@
   },
   {
     "timestamp": "2025-12-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 727.18,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9311,7 +9311,7 @@
   },
   {
     "timestamp": "2026-01-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 282.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9325,7 +9325,7 @@
   },
   {
     "timestamp": "2026-01-02T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 562.84,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9339,7 +9339,7 @@
   },
   {
     "timestamp": "2026-01-03T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 790.72,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9353,7 +9353,7 @@
   },
   {
     "timestamp": "2026-01-04T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 834.21,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9367,7 +9367,7 @@
   },
   {
     "timestamp": "2026-01-05T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 507.98,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9381,7 +9381,7 @@
   },
   {
     "timestamp": "2026-01-06T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 500.64,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9395,7 +9395,7 @@
   },
   {
     "timestamp": "2026-01-07T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 723.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9409,7 +9409,7 @@
   },
   {
     "timestamp": "2026-01-08T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 300.3,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9423,7 +9423,7 @@
   },
   {
     "timestamp": "2026-01-09T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 651.71,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9437,7 +9437,7 @@
   },
   {
     "timestamp": "2026-01-10T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1069.0,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9451,7 +9451,7 @@
   },
   {
     "timestamp": "2026-01-11T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 623.4,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9465,7 +9465,7 @@
   },
   {
     "timestamp": "2026-01-12T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 935.65,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9479,7 +9479,7 @@
   },
   {
     "timestamp": "2026-01-13T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 826.37,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9493,7 +9493,7 @@
   },
   {
     "timestamp": "2026-01-14T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 321.99,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9507,7 +9507,7 @@
   },
   {
     "timestamp": "2026-01-15T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1018.77,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9521,7 +9521,7 @@
   },
   {
     "timestamp": "2026-01-16T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 845.43,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9535,7 +9535,7 @@
   },
   {
     "timestamp": "2026-01-17T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 829.87,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9549,7 +9549,7 @@
   },
   {
     "timestamp": "2026-01-18T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 314.61,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9563,7 +9563,7 @@
   },
   {
     "timestamp": "2026-01-19T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 874.9,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9577,7 +9577,7 @@
   },
   {
     "timestamp": "2026-01-20T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1118.47,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9591,7 +9591,7 @@
   },
   {
     "timestamp": "2026-01-21T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1019.06,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9605,7 +9605,7 @@
   },
   {
     "timestamp": "2026-01-22T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1182.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9619,7 +9619,7 @@
   },
   {
     "timestamp": "2026-01-23T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 210.04,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9633,7 +9633,7 @@
   },
   {
     "timestamp": "2026-01-24T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 14.63,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9647,7 +9647,7 @@
   },
   {
     "timestamp": "2026-01-25T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 154.33,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9661,7 +9661,7 @@
   },
   {
     "timestamp": "2026-01-26T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 954.73,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9675,7 +9675,7 @@
   },
   {
     "timestamp": "2026-01-27T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 531.83,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9689,7 +9689,7 @@
   },
   {
     "timestamp": "2026-01-28T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 401.48,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9703,7 +9703,7 @@
   },
   {
     "timestamp": "2026-01-29T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 334.93,
     "unit": "kcal",
     "source": "Apple Health XML"
@@ -9717,14 +9717,28 @@
   },
   {
     "timestamp": "2026-01-30T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 695.65,
     "unit": "kcal",
     "source": "HealthMetrics-2026-01-30.csv, Workouts-2026-01-30.csv"
   },
   {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "WalkingRunningDistance",
+    "value": 4.58,
+    "unit": "mi",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
+    "timestamp": "2026-01-30T00:00:00Z",
+    "metric": "ExerciseTime",
+    "value": 58.0,
+    "unit": "min",
+    "source": "HealthMetrics-2026-01-30.csv"
+  },
+  {
     "timestamp": "2026-01-31T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 1331.64,
     "unit": "kcal",
     "source": "HealthMetrics-2026-01-31.csv, Workouts-2026-01-31.csv"
@@ -9737,8 +9751,22 @@
     "source": "HealthMetrics-2026-01-31.csv, Workouts-2026-01-31.csv"
   },
   {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "WalkingRunningDistance",
+    "value": 5.13,
+    "unit": "mi",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
+    "timestamp": "2026-01-31T00:00:00Z",
+    "metric": "ExerciseTime",
+    "value": 96.0,
+    "unit": "min",
+    "source": "HealthMetrics-2026-01-31.csv"
+  },
+  {
     "timestamp": "2026-02-01T00:00:00Z",
-    "metric": "ActiveEnergyBurned",
+    "metric": "ActiveEnergy",
     "value": 436.61,
     "unit": "kcal",
     "source": "HealthMetrics-2026-02-01.csv, Workouts-2026-02-01.csv"
@@ -9749,5 +9777,19 @@
     "value": 4144.17,
     "unit": "count",
     "source": "HealthMetrics-2026-02-01.csv, Workouts-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "WalkingRunningDistance",
+    "value": 1.7,
+    "unit": "mi",
+    "source": "HealthMetrics-2026-02-01.csv"
+  },
+  {
+    "timestamp": "2026-02-01T00:00:00Z",
+    "metric": "ExerciseTime",
+    "value": 29.0,
+    "unit": "min",
+    "source": "HealthMetrics-2026-02-01.csv"
   }
 ]

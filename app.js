@@ -50,10 +50,12 @@ class HealthDataManager {
                     
                     // Human-friendly labels for common metrics
                     const labels = {
+                        'activeenergy': 'ACTIVE ENERGY',
                         'activeenergyburned': 'ACTIVE ENERGY',
                         'stepcount': 'STEP COUNT',
                         'distancecycling': 'CYCLING DISTANCE',
                         'sleeptotal': 'TOTAL SLEEP',
+                        'sleepduration': 'TOTAL SLEEP',
                         'sleepdeep': 'DEEP SLEEP',
                         'sleeprem': 'REM SLEEP',
                         'sleepscore': 'SLEEP SCORE',
@@ -253,7 +255,7 @@ class DashboardUI {
             { id: 'HRV', label: 'HRV' },
             { id: 'glucose', label: 'GLUCOSE' },
             { id: 'StepCount', label: 'STEPS' },
-            { id: 'SleepScore', label: 'SLEEP' }
+            { id: 'SleepDuration', label: 'SLEEP' }
         ];
 
         const container = document.getElementById('vital-pulse-strip');
